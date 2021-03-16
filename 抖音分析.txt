@@ -1,0 +1,17 @@
+主页链接
+https://v.douyin.com/e8g1kCq/
+
+
+
+
+视频列表
+https://www.iesdouyin.com/web/api/v2/aweme/post/?sec_uid=MS4wLjABAAAAumvAfskbDW1CB77yOudtt4ecmpi3Mkdm8XCkrTfRZPQ&count=25&max_cursor=0&aid=1128&_signature=z1epBAAArxEnjYt5fPWXJs9XqR&dytk=
+
+sec_uid（用户id）
+count（返回数）最多是34
+max_cursor（下一页）
+
+
+
+https://www.iesdouyin.com/web/api/v2/aweme/post/?sec_uid=MS4wLjABAAAAumvAfskbDW1CB77yOudtt4ecmpi3Mkdm8XCkrTfRZPQ&count=25&max_cursor=1612231097000&aid=1128&_signature=z1epBAAArxEnjYt5fPWXJs9XqR&dytk=
+
